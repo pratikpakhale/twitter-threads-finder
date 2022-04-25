@@ -32,7 +32,7 @@ Start the server
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`TWITTER_BEARER_TOKEN`=<your twitter bearer token>
+`TWITTER_BEARER_TOKEN`= "your twitter bearer token"
 
 You can get the bearer token from [Twitter Dev Portal](https://developer.twitter.com/dashboard)
 
@@ -40,11 +40,11 @@ You can get the bearer token from [Twitter Dev Portal](https://developer.twitter
 
 Change the following variable values in app.js file accordingly-
 
-`twitter_username`: <associated twitter handle>
+`twitter_username`: "associated twitter handle"
 
-`tweets_to_scan`: <number of tweets to scan [eg. 5000]>
+`tweets_to_scan`: "number of tweets to scan [eg. 5000]"
 
-`count`: <number of tweets in a thread, preferably '3'>
+`count`: "number of tweets in a thread, preferably '3' "
 
 ## FAQ
 
