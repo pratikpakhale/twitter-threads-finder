@@ -1,6 +1,6 @@
 # Twitter User's Threads Finder
 
-A simple nodejs application to find the threads of a user.
+A simple nodejs project to find the threads of a user.
 
 ## Run Locally
 
